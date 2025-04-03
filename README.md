@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @felipesandrade
-- 🌱 I’m working with PHP and PostgreSQL.
-- 🌱 I’m currently learning React Native and Flutter.
+- 👋 Hi there, I’m @felipesandrade
+- 🌱  I’m currently working at Instituto Dr José Frota as a Software Developer 
+- 🌱 I’m currently learning Python.
 
 
 <!---
